@@ -293,16 +293,12 @@ ecommerce-site/
 > _“Behind every great project is a team of visionaries, builders, and collaborators.”_
 
 ### 👑 Project Lead  
-**Virgie Obedencio**  
+**Max**  
 💡 Project planner, designer, and creator of the full system — from layout to logic and feature ideas.
 
 ### 📁 Structure & Organization  
 **Noah**  
 🗂️ Organized the folder structure and ensured scalability, clarity, and maintainability.
-
-### 🤖 Code Assistant  
-**ChatGPT (OpenAI)**  
-⚙️ Assisted in generating HTML/CSS/JS, backend structure, features like gamification, chatbot, animations, and verification logic.
 
 ### 📚 Inspired By:
 - 🛍️ Shopee – Clean, user-focused marketplace
