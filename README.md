@@ -325,6 +325,9 @@ ecommerce-site/
 - PWA + SEO tools
 
 - Check Issues for the complete issue
+- ✨Check Here✨
+-       👇🏻
+-   https://github.com/TechX-Team/E-commerce-Fully-Website-/issues/1
 
 ---
 
@@ -339,12 +342,6 @@ ecommerce-site/
 - 💡 Feature requests
 
 > Stay informed, contribute ideas, and help shape the future of this project!
-
----
-
-## 🔗 License
-
-This project is open-source under the **MIT License** — feel free to use, modify, or expand it.
 
 ---
 
